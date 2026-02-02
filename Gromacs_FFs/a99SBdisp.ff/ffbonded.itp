@@ -494,6 +494,7 @@
  C   CM  N*  CT    4     180.0      4.18400     2  ; Amber99Sb-disp
  CT  O   C   OH    4     180.0     43.93200     2  ; Amber99Sb-disp
  CT  CV  CC  NA    4     180.0      4.60240     2  ; Amber99Sb-disp
+ CT  CC  CW  NA    4     180.0      4.60240     2  ; Amber99Sb-disp 
  CT  CW  CC  NB    4     180.0      4.60240     2  ; Amber99Sb-disp
  CT  CC  CW  NB    4     180.0      4.60240     2  ; Amber99Sb-disp
  CT  CW  CC  NA    4     180.0      4.60240     2  ; Amber99Sb-disp
